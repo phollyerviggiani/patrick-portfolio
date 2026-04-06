@@ -102,7 +102,7 @@ A mobile application built using Flutter that allows students to manage their ac
 ### Tech Stack
 - Dart
 - Flutter
-- Firebase
+- Supabase
 
 ### Key Features
 - User authentication system
