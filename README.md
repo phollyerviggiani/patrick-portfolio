@@ -114,7 +114,7 @@ A mobile application built using Flutter that allows students to manage their ac
 Screenshots included below to demonstrate application functionality.
 
 ### What I Learned
-Through this project, I developed an understanding of mobile application development, including UI/UX design considerations and state management. I also gained experience integrating Firebase for authentication and data storage.
+Through this project, I developed an understanding of mobile application development, including UI/UX design considerations and state management. I also gained experience integrating Supabase for authentication and data storage.
 
 ### Why This Demonstrates CPA Skills
 This project demonstrates my ability to develop cross-platform mobile applications and adapt to new technologies. It also highlights my focus on user experience and interface design.
