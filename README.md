@@ -40,7 +40,7 @@ The following screenshots highlight key functionality and user workflows within 
 ![Homepage](images/product-home.png)
 
 **Product Listing**
-![Product Listing](images/product-product.png)
+![Product Listing](images/product-products.png)
 
 **Individual Product View**
 ![Product Detail](images/product-product-id.png)
