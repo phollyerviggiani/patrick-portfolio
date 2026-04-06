@@ -30,6 +30,21 @@ A full-stack web application built using Next.js and React, designed to display 
 ### Project Access
 Screenshots and implementation details provided below. Source code available upon request.
 
+### Screenshots
+The following screenshots highlight key functionality and user workflows within the application:
+
+**Admin Dashboard**
+![Admin Dashboard](images/product-admin.png)
+
+**Homepage**
+![Homepage](images/product-home.png)
+
+**Product Listing**
+![Product Listing](images/product-product.png)
+
+**Individual Product View**
+![Product Detail](images/product-product-id.png)
+
 ### What I Learned
 Through this project, I developed a strong understanding of modern web architecture, including the differences between SSG, SSR, and CSR and their impact on performance and SEO. I also gained experience implementing secure authentication systems using JWT and designing role-based access control across both frontend and backend.
 
@@ -56,6 +71,15 @@ A multiplayer Hearts card game developed in C# using object-oriented programming
 
 ### Project Access
 Screenshots and class structure explanations provided. Developed as part of a team project.
+
+### Screenshots
+The following screenshots demonstrate gameplay and core functionality:
+
+**Game Start Screen**
+![Home Screen](images/hearts-home.png)
+
+**Gameplay Screen**
+![Gameplay](images/hearts-play.png)
 
 ### What I Learned
 This project strengthened my understanding of object-oriented programming principles such as inheritance, encapsulation, and polymorphism. I also gained experience designing and implementing AI logic and managing complex game states.
@@ -86,6 +110,18 @@ A full-stack web application built using Spring Boot and Java to track athlete t
 ### Project Access
 Screenshots and architectural breakdown provided. Source code available upon request.
 
+### Screenshots
+The following screenshots demonstrate core system functionality from a coach's perspective:
+
+**Athlete Overview Page**
+![Athletes](images/athlete-page.png)
+
+**Training Sessions View**
+![Sessions](images/athlete-session.png)
+
+**Add Training Session**
+![Add Session](images/athlete-add.png)
+
 ### What I Learned
 I gained experience building enterprise-level backend systems using Spring Boot and implementing MVC architecture. I also learned how to structure applications using services, repositories, and entities, as well as how to interact with databases using JPA.
 
@@ -94,7 +130,7 @@ This project demonstrates my ability to build scalable backend systems, apply de
 
 ---
 
-## 4. Mobile Student Planner Application
+## 4. Mobile Student Organizer Application
 
 ### Overview
 A mobile application built using Flutter that allows students to manage their academic information, including grades, assignments, and schedules.
@@ -112,6 +148,24 @@ A mobile application built using Flutter that allows students to manage their ac
 
 ### Project Access
 Screenshots included below to demonstrate application functionality.
+
+### Screenshots
+The following screenshots illustrate the user experience and application flow:
+
+**Login Screen**
+![Login](images/student-login.png)
+
+**Home Dashboard**
+![Home](images/student-home.png)
+
+**Assignments View**
+![Assignments](images/student-assignments.png)
+
+**Grades View**
+![Grades](images/student-grades.png)
+
+**Schedule View**
+![Schedule](images/student-schedule.png)
 
 ### What I Learned
 Through this project, I developed an understanding of mobile application development, including UI/UX design considerations and state management. I also gained experience integrating Supabase for authentication and data storage.
@@ -140,6 +194,24 @@ A full-stack e-commerce web application built using Next.js and Supabase, with a
 
 ### Project Access
 Screenshots and database design explanation provided. Final admin dashboard currently in development.
+
+### Screenshots
+The following screenshots demonstrate the e-commerce workflow and user experience:
+
+**Homepage**
+![Home](images/rosie-home.png)
+
+**Product Listings**
+![Products](images/rosie-pies.png)
+
+**Product Detail Page**
+![Product](images/rosie-product.png)
+
+**Cart View**
+![Cart](images/rosie-cart.png)
+
+**Checkout Process**
+![Checkout](images/rosie-checkout.png)
 
 ### What I Learned
 This project significantly strengthened my database design skills, particularly in normalization and managing complex relationships. I also gained experience integrating frontend applications with backend databases and implementing role-based systems.
