@@ -152,19 +152,19 @@ Screenshots included below to demonstrate application functionality.
 ### Screenshots
 The following screenshots illustrate the user experience and application flow:
 
-**Login Screen**
+**Login Screen**<br>
 ![Login](images/student-login.png)
 
-**Home Dashboard**
+**Home Dashboard**<br>
 ![Home](images/student-home.png)
 
-**Assignments View**
+**Assignments View**<br>
 ![Assignments](images/student-assignments.png)
 
-**Grades View**
+**Grades View**<br>
 ![Grades](images/student-grades.png)
 
-**Schedule View**
+**Schedule View**<br>
 ![Schedule](images/student-schedule.png)
 
 ### What I Learned
