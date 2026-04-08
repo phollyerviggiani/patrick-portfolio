@@ -221,6 +221,37 @@ This project demonstrates my ability to design and implement data-driven applica
 
 ---
 
+# 🎓 Program Learning Outcomes & Employability Skills
+
+## CPA Program Learning Outcomes Demonstrated
+
+Across these projects, I have demonstrated the following key Computer Programming and Analysis (CPA) Program Learning Outcomes:
+
+- **Application Development** – Designed and developed full-stack, mobile, and backend applications across multiple technologies.
+- **Object-Oriented Programming** – Applied OOP principles such as encapsulation, inheritance, and polymorphism in the Hearts game and backend systems.
+- **Database Design & Management** – Designed and implemented normalized relational databases, particularly in the Aunt Rosie and AthleteGuard projects.
+- **Systems Analysis & Design** – Structured applications using architectural patterns such as MVC and component-based design.
+- **Web Development** – Built modern web applications using frameworks like Next.js, React, and Spring Boot.
+- **Security Practices** – Implemented authentication and authorization using JWT and role-based access control.
+- **Problem Solving** – Solved complex logic problems such as game rule enforcement, workload calculations, and data flow management.
+- **Integration of Technologies** – Integrated APIs, databases, and frontend frameworks to create complete systems.
+- **Testing & Debugging** – Identified and resolved issues in both frontend and backend environments.
+- **Professional Practices** – Worked in team environments and followed structured development approaches.
+
+---
+
+## Essential Employability Skills Demonstrated
+
+These projects also demonstrate Ontario’s Essential Employability Skills:
+
+- **Communication** – Clearly documented projects and explained technical concepts through this portfolio.
+- **Problem Solving** – Designed solutions for real-world problems such as injury tracking and e-commerce workflows.
+- **Critical Thinking** – Evaluated different approaches, such as authentication methods and database design decisions.
+- **Information Management** – Organized and managed data effectively across multiple systems and applications.
+- **Personal Responsibility & Adaptability** – Learned new technologies such as Spring Boot, Flutter, and Supabase independently and applied them successfully.
+
+---
+
 # 🏁 Conclusion
 
 These projects collectively demonstrate my ability to design, develop, and deploy applications across multiple domains, including web, mobile, and backend systems. They highlight my strengths in problem-solving, adaptability, and continuous learning, all of which are essential skills for a Computer Programmer Analyst.
