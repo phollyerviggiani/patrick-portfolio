@@ -49,7 +49,7 @@ The following screenshots highlight key functionality and user workflows within 
 Through this project, I developed a strong understanding of modern web architecture, including the differences between SSG, SSR, and CSR and their impact on performance and SEO. I also gained experience implementing secure authentication systems using JWT and designing role-based access control across both frontend and backend.
 
 ### Why This Demonstrates CPA Skills
-This project demonstrates my ability to design and implement scalable, secure, and maintainable web applications. It highlights my understanding of full-stack development, API integration, and modern architectural patterns.
+This project demonstrates my ability to develop modern full-stack web applications while applying key CPA outcomes, including web development, API integration, and security practices, through JWT authentication and role-based access control. It also highlights essential employability skills, such as problem-solving and critical thinking, in designing scalable and efficient application architecture.
 
 ---
 
@@ -85,7 +85,7 @@ The following screenshots demonstrate gameplay and core functionality:
 This project strengthened my understanding of object-oriented programming principles such as inheritance, encapsulation, and polymorphism. I also gained experience designing and implementing AI logic and managing complex game states.
 
 ### Why This Demonstrates CPA Skills
-This project demonstrates my ability to design structured, maintainable systems using OOP principles. It also highlights my problem-solving skills and ability to work collaboratively in a team environment.
+This project demonstrates my ability to apply object-oriented programming principles and design structured systems, aligning with CPA outcomes such as application development and problem solving. It also reflects strong teamwork and communication skills, as the project was developed collaboratively while managing complex game logic.
 
 ---
 
@@ -126,7 +126,7 @@ The following screenshots demonstrate core system functionality from a coach's p
 I gained experience building enterprise-level backend systems using Spring Boot and implementing MVC architecture. I also learned how to structure applications using services, repositories, and entities, as well as how to interact with databases using JPA.
 
 ### Why This Demonstrates CPA Skills
-This project demonstrates my ability to build scalable backend systems, apply design patterns, and implement real-world business logic. It also highlights my understanding of database integration and system architecture.
+This project demonstrates my ability to build scalable backend systems using proper architectural patterns, aligning with CPA outcomes such as systems design, database integration, and application development. It also highlights critical thinking and information management skills when implementing real-world logic like injury risk calculations.
 
 ---
 
@@ -171,7 +171,7 @@ The following screenshots illustrate the user experience and application flow:
 Through this project, I developed an understanding of mobile application development, including UI/UX design considerations and state management. I also gained experience integrating Supabase for authentication and data storage.
 
 ### Why This Demonstrates CPA Skills
-This project demonstrates my ability to develop cross-platform mobile applications and adapt to new technologies. It also highlights my focus on user experience and interface design.
+This project demonstrates my ability to develop cross-platform mobile applications and quickly adapt to new technologies, aligning with CPA outcomes such as application development and technology integration. It also reflects adaptability and problem-solving skills through learning Flutter and implementing user-focused features.
 
 ---
 
@@ -217,38 +217,7 @@ The following screenshots demonstrate the e-commerce workflow and user experienc
 This project significantly strengthened my database design skills, particularly in normalization and managing complex relationships. I also gained experience integrating frontend applications with backend databases and implementing role-based systems.
 
 ### Why This Demonstrates CPA Skills
-This project demonstrates my ability to design and implement data-driven applications, manage complex relational databases, and build scalable full-stack systems.
-
----
-
-# 🎓 Program Learning Outcomes & Employability Skills
-
-## CPA Program Learning Outcomes Demonstrated
-
-Across these projects, I have demonstrated the following key Computer Programming and Analysis (CPA) Program Learning Outcomes:
-
-- **Application Development** – Designed and developed full-stack, mobile, and backend applications across multiple technologies.
-- **Object-Oriented Programming** – Applied OOP principles such as encapsulation, inheritance, and polymorphism in the Hearts game and backend systems.
-- **Database Design & Management** – Designed and implemented normalized relational databases, particularly in the Aunt Rosie and AthleteGuard projects.
-- **Systems Analysis & Design** – Structured applications using architectural patterns such as MVC and component-based design.
-- **Web Development** – Built modern web applications using frameworks like Next.js, React, and Spring Boot.
-- **Security Practices** – Implemented authentication and authorization using JWT and role-based access control.
-- **Problem Solving** – Solved complex logic problems such as game rule enforcement, workload calculations, and data flow management.
-- **Integration of Technologies** – Integrated APIs, databases, and frontend frameworks to create complete systems.
-- **Testing & Debugging** – Identified and resolved issues in both frontend and backend environments.
-- **Professional Practices** – Worked in team environments and followed structured development approaches.
-
----
-
-## Essential Employability Skills Demonstrated
-
-These projects also demonstrate Ontario’s Essential Employability Skills:
-
-- **Communication** – Clearly documented projects and explained technical concepts through this portfolio.
-- **Problem Solving** – Designed solutions for real-world problems such as injury tracking and e-commerce workflows.
-- **Critical Thinking** – Evaluated different approaches, such as authentication methods and database design decisions.
-- **Information Management** – Organized and managed data effectively across multiple systems and applications.
-- **Personal Responsibility & Adaptability** – Learned new technologies such as Spring Boot, Flutter, and Supabase independently and applied them successfully.
+This project demonstrates my ability to design and implement complex, data-driven systems, aligning with CPA outcomes such as database design, web development, and systems analysis. It also highlights strong critical thinking and information management skills when structuring and normalizing a large relational database.
 
 ---
 
