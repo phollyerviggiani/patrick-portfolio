@@ -193,7 +193,7 @@ A full-stack e-commerce web application built using Next.js and Supabase, with a
 - Admin dashboards for business operations (in progress)
 
 ### Project Access
-Screenshots and database design explanation provided. Final admin dashboard currently in development.
+Screenshots and database design explanation provided. Source code available upon request.
 
 ### Screenshots
 The following screenshots demonstrate the e-commerce workflow and user experience:
@@ -210,8 +210,8 @@ The following screenshots demonstrate the e-commerce workflow and user experienc
 **Cart View**
 ![Cart](images/rosie-cart.png)
 
-**Checkout Process**
-![Checkout](images/rosie-checkout.png)
+**Admin Pannel**
+![Checkout](images/rosie-admin.png)
 
 ### What I Learned
 This project significantly strengthened my database design skills, particularly in normalization and managing complex relationships. I also gained experience integrating frontend applications with backend databases and implementing role-based systems.
